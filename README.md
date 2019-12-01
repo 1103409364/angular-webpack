@@ -1,7 +1,7 @@
 # angular-webpack
 一个用webpack打包angulajs的web应用框架示例
 主要用ES6的语法来写angular1的项目，用到oc.lazyLoad模块来进行项目的按需加载路由
-
+原版是"angular": "^1.6.6"
 
 ### Quick Start
 
